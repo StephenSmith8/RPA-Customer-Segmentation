@@ -1,6 +1,6 @@
 # RPA-Customer-Segmentation
 
-The purpose of this project is to help the marketing department of fictional company Reputable Product Agency (RPA) segment its user base using SQL queries. By dividing users into groups based on specific criteria, such as birth year or campaign participation, the project enables personalized marketing and performance analysis. 
+The purpose of this project is to help the marketing department of fictional company, Reputable Product Agency (RPA), segment its user base using SQL queries. By dividing users into groups based on specific criteria, such as birth year or campaign participation, the project enables personalized marketing and performance analysis. 
 
 The project included the query requirements below:
 
